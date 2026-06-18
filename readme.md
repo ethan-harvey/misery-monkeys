@@ -21,7 +21,7 @@ A character sheet for this game is available as a [Google Sheet](https://docs.go
 Misery Monkeys in Space is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 - Text and design by [Ethan Harvey](https://ethanharvey.itch.io).
-- A hack of [Lasers & Feelings](https://johnharper.itch.io/lasers-feelings) by [John Harper](https://johnharper.itch.io).
+- Rule system based on [Lasers & Feelings](https://johnharper.itch.io/lasers-feelings) by [John Harper](https://johnharper.itch.io).
 - Cover image adapted from art by [vectorpocket](https://www.freepik.com/vectorpocket) at freepik.com.
 - [Character keeper](https://docs.google.com/spreadsheets/d/1rnGsCHHa4IPx0obh9ascCd6_pMxqCPQuba1GnRyB99U/edit?usp=sharing) based on the Lasers & Feelings character keeper by Tomer Gurantz.
 - Thanks/blame go to [SabineV5](https://sabinev5.itch.io/profile/sabinev5) for encouraging this ridiculous project.
