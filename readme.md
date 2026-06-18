@@ -1,9 +1,9 @@
 
-> You’re a crew of monkeys. You’re miserable, for various reasons. But you’ve somehow ended up on a spaceship, and now it looks like you’re in control. Or at least nobody else seems to be controlling it, so it’s yours now, right?_
+> You’re a crew of monkeys. You’re miserable, for various reasons. But you’ve somehow ended up on a spaceship, and now it looks like you’re in control. Or at least nobody else seems to be controlling it, so it’s yours now, right?
 > 
-> The entire galaxy is open to you! You have a SPACESHIP – do something fun with it!_
+> The entire galaxy is open to you! You have a SPACESHIP – do something fun with it!
 > 
-> Too bad someone wants to stop you. Someone who probably knows a lot more about space than you do, and will do terrible things to keep you from reaching your destination. Why? Who knows? You’re just monkeys, you didn’t ask for any of this. But tell that to the unfeeling void of space._
+> Too bad someone wants to stop you. Someone who probably knows a lot more about space than you do, and will do terrible things to keep you from reaching your destination. Why? Who knows? You’re just monkeys, you didn’t ask for any of this. But tell that to the unfeeling void of space.
 > 
 > You might want to learn to use that laser cannon.
 
