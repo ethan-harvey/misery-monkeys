@@ -9,7 +9,7 @@
 
 This is a silly Lasers & Feelings hack I made for the Transformed Titles Jam. When a neural network hands you a title that sounds like a parody of every game on itch.io, you kind of have to write it.
 
-You can download them from the [Releases](https://github.com/ethan-harvey/misery-monkeys/releases/tag/1.2.1). Comes in PDF form, printable as a trifold pamphlet, a [web page](https://ethan-harvey.github.io/misery-monkeys), and epub & kindle formats for your e-reader. Or you can get them at [itch.io](https://ethanharvey.itch.io/misery-monkeys).
+You can download them [here](https://github.com/ethan-harvey/misery-monkeys/releases/tag/1.2.1). Comes in PDF form, printable as a trifold pamphlet, and epub & kindle formats for your e-reader. Or you can get them at [itch.io](https://ethanharvey.itch.io/misery-monkeys). Or just view the whole game as a [web page](https://ethan-harvey.github.io/misery-monkeys).
 
 Created for the Transformed Titles Jam. This game is free. I refuse to charge anyone for an untested game jam project.
 
